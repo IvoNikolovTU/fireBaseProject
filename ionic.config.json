@@ -1,0 +1,7 @@
+{
+  "name": "fireBaseProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
